@@ -2,5 +2,5 @@ COMPLETADA
 Hacer la prueba
 PENDIENTE
 Hacer ejercicio
-PENDIENTE
+COMPLETADA
 Limpiar
